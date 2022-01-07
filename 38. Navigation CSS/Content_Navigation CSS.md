@@ -8,13 +8,32 @@
 -         Cách sắp xếp: trên một hàng
 -         Các thuộc tính: được set up đủ 4 hướng
 
-2) Thuộc tính line-height: 
-a) code:
+2) **Thuộc tính line-height: **
+
+a) **code:**
 tag{
 line-height: giá trị;
 }
-b) bao gồm các giá trị như: 
+b)** bao gồm các giá trị như: **
   Normal: không tăng khoảng cách giữa các dòng
   Số (1.5): Tăng hoặc giảm khoản cách giữa các dòng có thể là số tự nhiên hoặc số thập phân
   Khoảng cách ( px,%): Tăng khoản cách giữa các dòng
   inherit: Xác định thừa hưởng các thuộc tính từ cha
+Ví dụ minh họa: 
+- 
+- Chưa có property: line-height hoặc thuôc tính là normal
+HỌC WEB CHUẨN
+HTML - HyperText Markup Language
+XHTML - Extensible HyperText Markup Language
+CSS - Cascading Style Sheets
+JS - JavaScript
+- Thêm thuộc tính line-hight
+HỌC WEB CHUẨN
+
+HTML - HyperText Markup Language
+
+XHTML - Extensible HyperText Markup Language
+
+CSS - Cascading Style Sheets
+
+JS - JavaScript
